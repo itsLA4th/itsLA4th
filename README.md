@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=30&lines=Forever+a+student%2C+forever+a+builder." alt="Typing SVG" />
   </a>
   
-  <h1 style="margin: 0;">Hi 👋, I'm <span style="border-bottom: 2px solid black;">Lorenzo Laforteza</span></h1>
+  <h1 style="margin: 0;">Hi 👋, I'm Lorenzo Laforteza</h1>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/lorenzo-laforteza-714105419/" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
