@@ -12,8 +12,6 @@
   </p>
 </div>
 
----
-
 <!-- ABOUT ME SECTION -->
 <p>🚀 <b>About Me</b></p>
 <p><i>"I didn't just learn development. I built with it."</i></p>
