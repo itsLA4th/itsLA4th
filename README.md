@@ -7,7 +7,7 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/lorenzo-laforteza-714105419/" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
-    <a href="mailto:lorenzolaforteza0111@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" /></a>
+    <a href="mailto:lorenzolaforteza.dev@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" /></a>
     <a href="YOUR_PORTFOLIO_URL_HERE" style="text-decoration: none;"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio Badge" /></a>
   </p>
 </div>
