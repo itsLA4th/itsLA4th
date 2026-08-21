@@ -19,7 +19,7 @@
 
 <ul>
   <li>📍 <b>Location:</b> Dasmariñas City, Philippines</li>
-  <li>💻 <b>Role:</b> Knowledgeable Developer</li>
+  <li>💻 <b>Role:</b> Aspiring Full-Stack Developer</li>
   <li>🚀 <b>Current Focus:</b> Building Modern Web Apps</li>
   <li>📚 <b>Learning:</b> System Design</li>
   <li>🧠 <b>Exploring:</b> AI Workflows</li>
